@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39287f32-dd10-4f1a-92ba-a89270b9f931" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CRNN-Keras-master/Final_weight.hdf5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Korean-license-plate-Generator-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generator_augmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generator_original.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generator_perspective.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/ah.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/aj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/ak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/an.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/dh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/dj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/dk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/dn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/eh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/ej.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/ek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/en.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/fh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/fj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/fk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/fn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/gj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/qh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/qj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/qk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/qn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/rh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/rj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/rk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/rn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/sh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/sj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/sk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/sn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/th.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/tj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/tk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/wh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/wj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/wk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1/wn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/ah.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/aj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/ak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/an.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/dh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/dj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/dk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/dn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/eh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/ej.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/ek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/en.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/fh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/fj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/fk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/fn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/gj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/qh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/qj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/qk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/qn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/rh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/rj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/rk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/rn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/sh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/sj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/sk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/sn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/th.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/tj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/tk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/wh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/wj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/wk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_g/wn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/ah.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/aj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/ak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/an.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/dh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/dj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/dk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/dn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/eh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/ej.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/ek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/en.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/fh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/fj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/fk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/fn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/gj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/qh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/qj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/qk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/qn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/rh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/rj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/rk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/rn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/sh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/sj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/sk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/sn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/th.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/tj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/tk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/wh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/wj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/wk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/char1_y/wn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_g/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_g/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_g/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_g/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_g/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_g/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_g/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_g/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_g/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_g/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_y/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_y/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_y/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_y/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_y/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_y/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_y/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_y/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_y/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_y/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plate_g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plate_y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/D.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/G.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/H.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/J.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/K.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/M.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/N.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/O.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_g/P.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/D.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/G.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/H.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/I.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/J.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/K.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/M.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/N.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/O.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/region_y/P.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LPSR-Recognition-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LPSR-Recognition-master/.idea/LPSR-Recognition-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LPSR-Recognition-master/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LPSR-Recognition-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LPSR-Recognition-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LPSR-Recognition-master/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LPSR-Recognition-master/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRNN-Keras-master/DB/train/A18sk6897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRNN-Keras-master/DB/train/B16dj0824.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRNN-Keras-master/DB/train/F06aj4915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRNN-Keras-master/DB/train/G11qk8249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRNN-Keras-master/Prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CRNN-Keras-master/Prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../super_resolution-master/train.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../super_resolution-master/train.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1caGj8612RKUx0cePTGc9Y05axo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Generator_augmentation">
+    <configuration name="Generator_augmentation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Korean-license-plate-Generator-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Generator_augmentation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Generator_original" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Korean-license-plate-Generator-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Generator_original.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Korean-license-plate-Generator-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Generator_augmentation" />
+        <item itemvalue="Python.Generator_original" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39287f32-dd10-4f1a-92ba-a89270b9f931" name="Default Changelist" comment="" />
+      <created>1590759422795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590759422795</updated>
+      <workItem from="1590759424354" duration="2338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="921" height="261" key="GridCell.Tab.0.bottom" timestamp="1590761986791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="921" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590761986791" />
+    <state width="921" height="261" key="GridCell.Tab.0.center" timestamp="1590761986791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="921" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590761986791" />
+    <state width="921" height="261" key="GridCell.Tab.0.left" timestamp="1590761986791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="921" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590761986791" />
+    <state width="921" height="261" key="GridCell.Tab.0.right" timestamp="1590761986791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="921" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590761986791" />
+    <state width="921" height="261" key="GridCell.Tab.1.bottom" timestamp="1590761986792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="921" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590761986792" />
+    <state width="921" height="261" key="GridCell.Tab.1.center" timestamp="1590761986792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="921" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590761986792" />
+    <state width="921" height="261" key="GridCell.Tab.1.left" timestamp="1590761986792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="921" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590761986792" />
+    <state width="921" height="261" key="GridCell.Tab.1.right" timestamp="1590761986792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="921" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590761986792" />
+    <state x="555" y="60" key="SettingsEditor" timestamp="1590760176838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590760176838" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Korean_license_plate_Generator_master$Generator_augmentation.coverage" NAME="Generator_augmentation Coverage Results" MODIFIED="1590762166065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
